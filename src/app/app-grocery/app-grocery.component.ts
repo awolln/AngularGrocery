@@ -14,10 +14,10 @@ import { Component } from '@angular/core';
 export class AppGroceryComponent {
 
 
-  private readonly newProperty = '../assets/css/bootstrap.min.css';
+  
 
   private newMethod(): string {
-    return '../assets/css/bootstrap.min.css';
+    return '../assets/css/bootstrap.mini.css';
   }
 }
 function newFunction(): string {
